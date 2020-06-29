@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JeG2vXV/yc9U2M5POjJ3sJGS2WEMbMhECV8uasbi6/A+0T+8rCTH3zuNhFPsvYoPRXwOVzUgvMq3p6D4U6kh+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marin\\Documents\\Imaganaria\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\Marin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
